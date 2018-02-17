@@ -1,0 +1,53 @@
+.card{
+  width: 320px;
+  -webkit-box-shadow: 10px 10px 0px -2px rgba(0,0,0,0.13);
+  -moz-box-shadow: 10px 10px 0px -2px rgba(0,0,0,0.13);
+  box-shadow: 10px 10px 0px -2px rgba(0,0,0,0.13);
+  background: url("https://www.lifegate.it/app/uploads/albero1.jpg") no-repeat 70% 70%;
+}
+
+.border{
+  border:3px solid green;
+}
+
+.container{
+  width:300px;
+  margin:auto;
+}
+
+.name{
+  font: 60px 'Luckiest Guy', cursive;
+  margin:10px 0;
+  text-align: center;
+  color:rgb(236, 102, 17);
+}
+
+img {
+  box-sizing: border-box;
+  width: 300px;
+	display: block;
+}
+
+.info{
+  width:auto;
+  margin: 15px 0 10px;
+  padding:10px;
+  background-color:rgba(167, 204, 98, 0.83);
+}
+
+.curiosity{
+  font-style: italic;
+}
+
+ul{
+  padding:0;
+  list-style-type: none;
+}
+
+span{
+  font-weight: bold;
+}
+
+.large-angle{
+  border-radius: 10px;
+}
