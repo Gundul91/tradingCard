@@ -41,13 +41,13 @@ img {
 
 ul{
   padding:0;
-  list-style-type: none;
+  list-style-type: none;  //Remove dots
 }
 
 span{
   font-weight: bold;
 }
 
-.large-angle{
+.rounded-corners{
   border-radius: 10px;
 }
